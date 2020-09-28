@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-27T14:12:26.161Z</updated>
+  <updated>2020-09-28T12:58:44.854Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo素锦主题美化</title>
+    <link href="http://example.com/2020/09/28/Hexo%E7%B4%A0%E9%94%A6%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/"/>
+    <id>http://example.com/2020/09/28/Hexo%E7%B4%A0%E9%94%A6%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/</id>
+    <published>2020-09-28T03:44:18.000Z</published>
+    <updated>2020-09-28T12:58:44.854Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;关于个人hexo站点素锦主题的美化小记&quot;&gt;&lt;a href=&quot;#关于个人hexo站点素锦主题的美化小记&quot; class=&quot;headerlink&quot; title=&quot;关于个人hexo站点素锦主题的美化小记&quot;&gt;&lt;/a&gt;关于个人hexo站点素锦主题的美化小记&lt;/h2&gt;&lt;h6</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>你TM还不会Markdown？</title>
