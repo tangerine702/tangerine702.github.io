@@ -89,11 +89,11 @@
 <p>回车一下</p>
 <p>即可安装素锦主题</p>
 <h4 id="2-修改配置"><a href="#2-修改配置" class="headerlink" title="2.修改配置"></a>2.修改配置</h4><p>首先找到Hexo的_config.yml文件</p>
-<p>site图片位</p>
+<p><img src="https://raw.githubusercontent.com/tangerine702/tangerine702.github.io/master/img/2.%E7%B4%A0%E9%94%A6%E9%85%8D%E7%BD%AE/site.png" alt="site"></p>
 <p>修改主题关键字为diaspora</p>
-<p>theme图片位</p>
+<p><img src="https://raw.githubusercontent.com/tangerine702/tangerine702.github.io/master/img/2.%E7%B4%A0%E9%94%A6%E9%85%8D%E7%BD%AE/theme.png" alt="theme"></p>
 <p>先别关，翻到最后面，添加下面一段代码：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom.xml</span><br><span class="line">  limit: 20</span><br><span class="line">  hub:</span><br><span class="line">  content:</span><br><span class="line">  content_limit: 140</span><br><span class="line">  content_limit_delim: &#39; &#39;</span><br><span class="line">  order_by: -date</span><br><span class="line">  icon: icon.png</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom.xml</span><br><span class="line">  limit: 20</span><br><span class="line">  hub:</span><br><span class="line">  content:</span><br><span class="line">  content_limit: 140</span><br><span class="line">  content_limit_delim: &#39; &#39;</span><br><span class="line">  order_by: -date</span><br><span class="line">  icon: icon.png</span><br></pre></td></tr></table></figure>
 
 
 
@@ -103,10 +103,10 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">分类: &#x2F;categories</span><br><span class="line"> 归档: &#x2F;archives</span><br><span class="line"> 标签云: &#x2F;tags</span><br></pre></td></tr></table></figure>
 
 <p>其他地方可以看着改</p>
-<p>其次可以找到博客目录下的scaffolds文件夹</p>
-<p>scaffolds文件夹图片位</p>
+<p>下一步可以找到博客目录下的scaffolds文件夹</p>
+<p><img src="https://raw.githubusercontent.com/tangerine702/tangerine702.github.io/master/img/2.%E7%B4%A0%E9%94%A6%E9%85%8D%E7%BD%AE/scaffolds%E6%96%87%E4%BB%B6%E5%A4%B9.png" alt="scaffolds"></p>
 <p>找到post.md并编辑</p>
-<p>post.md图片位</p>
+<p><img src="https://raw.githubusercontent.com/tangerine702/tangerine702.github.io/master/img/2.%E7%B4%A0%E9%94%A6%E9%85%8D%E7%BD%AE/post.png" alt="post.md"></p>
 <p>将内容清空并填写以下代码：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">mp3: </span><br><span class="line">cover: </span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
