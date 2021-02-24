@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-23T09:22:38.888Z</updated>
+  <updated>2021-02-24T06:32:03.080Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>植物大战僵尸自制教程(皮肤修改)</title>
+    <link href="http://example.com/2021/02/23/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E8%87%AA%E5%88%B6%E6%95%99%E7%A8%8B-%E7%9A%AE%E8%82%A4%E4%BF%AE%E6%94%B9/"/>
+    <id>http://example.com/2021/02/23/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E8%87%AA%E5%88%B6%E6%95%99%E7%A8%8B-%E7%9A%AE%E8%82%A4%E4%BF%AE%E6%94%B9/</id>
+    <published>2021-02-23T12:35:33.000Z</published>
+    <updated>2021-02-24T06:32:03.080Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>前几天突然想玩植物大战僵尸了，不过因为以前已经全通关了(指拿到了银向日葵奖杯，我是个菜鸡哈哈)</p><p>玩了一段时间(也就两天)突然想自制一个植物，让我玩到修改器的感觉（滑稽），遂找寻教程</p><h1 id="以上就是这篇文章诞生的原因【闲的】"><a href="#以上就是这篇文章诞生的原因【闲的】" class="headerlink" title="以上就是这篇文章诞生的原因【闲的】"></a>以上就是这篇文章诞生的原因【闲的】</h1><p>哈哈，开始教程：</p><h3 id="首先你得拿到一份植物大战僵尸的游戏，如果没有的话推荐点击下载"><a href="#首先你得拿到一份植物大战僵尸的游戏，如果没有的话推荐点击下载" class="headerlink" title="首先你得拿到一份植物大战僵尸的游戏，如果没有的话推荐点击下载"></a>首先你得拿到一份植物大战僵尸的游戏，如果没有的话推荐点击<a href="http://pvz4.lonelystar.org/download.htm">下载</a></h3><p>如果我猜的没错的话差不多是这样的：</p><p><img src="D:\hexo\blog\source\img\4.植物大战僵尸皮肤修改\下载得到的样子.jpg" alt="梦开始的样子"></p><p>一般人都知道点击最下面exe是开始游戏，不过咱整点不一样的</p><p>看到上面图有个main.pak，哎~本篇文章讲的就是它：</p><p><code>如果不一样也没关系，找到main.pak文件就可以</code></p><h3 id="首先需要下方提供的文件提取器："><a href="#首先需要下方提供的文件提取器：" class="headerlink" title="首先需要下方提供的文件提取器："></a>首先需要下方提供的文件提取器：</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">链接：https:&#x2F;&#x2F;pan.baidu.com&#x2F;s&#x2F;1HHtxd-awm3dTiPXFbpPlrQ </span><br><span class="line">提取码：zjxg </span><br><span class="line">复制这段内容后打开百度网盘手机App，操作更方便哦</span><br></pre></td></tr></table></figure><p>下载后发现</p><p><img src="D:\hexo\blog\source\img\4.植物大战僵尸皮肤修改\xgq解包.jpg" alt="image"></p><h4 id="首先选择解包模式"><a href="#首先选择解包模式" class="headerlink" title="首先选择解包模式"></a>首先选择解包模式</h4><p>上面一行pak文件选择你下载的植物大战僵尸的文件目录中的main.pak文件</p><p>下面一行选择你想把解出来的文件包放在哪里（记好这个目录，等会马上用到）</p><p>确认无误后点击执行</p><p>这时你发现电脑有点卡</p><p>没事，这是正常现象</p><p>等提示解包完毕或者一个提示框突然弹出来</p><p>恭喜，你已经解包成功了！</p><p>然后就结束啦，完结撒花！<del>~</del></p><p>。。。。</p><p>才怪嘞！</p><h3 id="接下来找到刚才你把包输出的地方（其实就是你上面第二行填的目录那里）"><a href="#接下来找到刚才你把包输出的地方（其实就是你上面第二行填的目录那里）" class="headerlink" title="接下来找到刚才你把包输出的地方（其实就是你上面第二行填的目录那里）"></a>接下来找到刚才你把包输出的地方（其实就是你上面第二行填的目录那里）</h3><p>出现一个pak文件夹</p><p>点击进入它</p><p>发现一堆文件：compiled，data，images等</p><p><strong>这次我们主要修改的就是images文件夹和倒数第二个reamin文件夹</strong></p><blockquote><p>首先说明：</p><p>pak文件最好备份一份，否则改错了只能重新解包，比较麻烦</p><p>images是存放地图和一些启动图的地方，最好是直接在原图上修改，避免改错了出麻烦</p><p>reanim是存放植物和僵尸身体各部分的贴图的地方，动作文件有个后缀是.fla，这个文件暂时不要动，其他的可以轻度在原图上改改，比如画个滑稽脸嘻嘻</p></blockquote><p>等你改完了，我们还需要再打开一次刚才你下载的提取器，点击打包模式，选择刚才你解包选择的那个main.pak文件</p><p>紧接着选择你已经修改完的pak文件</p><p>点击执行！</p><p>还是熟悉的电脑一阵卡顿后，弹出提示框表示：爷已经打好包了，你快给我进去看看！</p><p>发现修改完毕，OK，你已经迈入了魔改植物大战僵尸的第一步啦！~</p><p>庆祝撒花<em>★,°</em>:.☆(￣▽￣)/$:<em>.°★</em> 。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>解决GitHub图片打不开的问题</title>
