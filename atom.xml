@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-05T15:59:18.770Z</updated>
+  <updated>2021-03-26T15:16:51.401Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于动态壁纸的准备与制作</title>
+    <link href="http://example.com/2021/03/26/%E5%85%B3%E4%BA%8E%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E7%9A%84%E5%87%86%E5%A4%87%E4%B8%8E%E5%88%B6%E4%BD%9C/"/>
+    <id>http://example.com/2021/03/26/%E5%85%B3%E4%BA%8E%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E7%9A%84%E5%87%86%E5%A4%87%E4%B8%8E%E5%88%B6%E4%BD%9C/</id>
+    <published>2021-03-26T13:28:45.000Z</published>
+    <updated>2021-03-26T15:16:51.401Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>经常在网上发现一些很不错的动态壁纸，由于全是别人做的，当自己发现一个很好<strong>很有意境</strong>（滑稽）的壁纸时没法把它变成动态的，有点遗憾</p><p>不过别担心，本教程手把手教你做自己的动态壁纸！</p><p>let‘s go！😎</p><h2 id="🔸第一步"><a href="#🔸第一步" class="headerlink" title="🔸第一步"></a>🔸第一步</h2><p>准备一张想变成动态的壁纸，<strong>最好是人物类</strong></p><p><strong>因为轮廓清晰所以一些步骤很好做</strong></p><p>风景画也不是不可以，不过还是建议找一张人物图自己做一遍熟悉熟悉步骤</p><p>然后再啃这个难啃的骨头</p><p>–</p><p>打开你的PS，把这张图片<strong>导入到PS(Photoshop)中</strong></p><p>此时你是一张背景图的状态</p><p>双击右下角的背景图层，在弹出的对话框中<strong>点击确认</strong></p><p>将背景图层解锁后，我们就可以将你想动的地方抠出来了</p><p>这个东西的原理就是把需要动的部位单独做出来，然后补出被刚才扣出部位所遮挡的部分即可</p><p>例如你要把手扣出来，而手挡住了后面蝴蝶结的一部分，这时你就需要将手单独做一个图层后将后面被遮挡而导致残缺的蝴蝶结补充完整</p><p><img src="https://i.loli.net/2021/03/26/PQ5VuFxvNGRjO7f.jpg"></p><p>就这样处理好了全部的部位后</p><p>我们就可以进入下一部分了！</p><hr><h2 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h2><p>打开AE(Adobe After Effects CC)</p><p>找到Auto sway摆动脚本</p><p>使用钉子工具(或者<strong>人偶位置控点工具</strong>)定点应用自动生成</p><p>具体样式如下（图糊了见谅）</p><p><img src="https://i.loli.net/2021/03/26/m6QwVXs7z4aujLb.png"></p><p>选择手指上的三个点作为动点生成，最左边的点做固定点（轴）点击Apply生成即可</p><p>完啦！一共就两步，剩下的就需要你自己重复操作了！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="动画 壁纸" scheme="http://example.com/categories/%E5%8A%A8%E7%94%BB-%E5%A3%81%E7%BA%B8/"/>
+    
+    
+    <category term="壁纸动画 简单" scheme="http://example.com/tags/%E5%A3%81%E7%BA%B8%E5%8A%A8%E7%94%BB-%E7%AE%80%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title>植物大战僵尸自制教程(皮肤修改)</title>
