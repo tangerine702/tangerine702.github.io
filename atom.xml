@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-25T08:02:16.333Z</updated>
+  <updated>2021-06-25T08:05:21.539Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/06/24/%E5%85%B3%E4%BA%8E%E6%AD%A3%E8%A7%84%E7%9A%84md%E6%96%87%E4%BB%B6%E5%86%99%E6%B3%95%E5%B0%8F%E7%9F%A5%E8%AF%86/"/>
     <id>http://example.com/2021/06/24/%E5%85%B3%E4%BA%8E%E6%AD%A3%E8%A7%84%E7%9A%84md%E6%96%87%E4%BB%B6%E5%86%99%E6%B3%95%E5%B0%8F%E7%9F%A5%E8%AF%86/</id>
     <published>2021-06-24T11:08:31.000Z</published>
-    <updated>2021-06-25T08:02:16.333Z</updated>
+    <updated>2021-06-25T08:05:21.539Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="关于正规的md文件写法小知识"><a href="#关于正规的md文件写法小知识" class="headerlink" title="关于正规的md文件写法小知识"></a>关于正规的md文件写法小知识</h2><p>这篇文章主要是记录一下markdown文件(简称md文件)的正规写法，以及我自身犯过的错误也一并写出来，供大家参考</p><p>接下来进入正题：</p><ol><li><p>乱用一级、二级等大标题</p><p>​     ♦刚开始写md文的时候，感觉需要不同大小的粗体字，奈何md自带的粗体不能满足我ಥ◡ಥ，便想到了可以用标题来解决，等我写了很多文章的时候，粗看是没什么问题的，不过等我扔到blog上去的时候，blog自带的目录就乱七八糟的，哎，那可叫一个屮啊，到现在我还没有整理好（其实是懒）</p></li><li><p>不会分段，大段的文字看起来格外的累</p><p>​      ♦这个的话一般小学中学写作文就能体会到，文章不会分段的话经常纸上就一坨一坨的你懂吧，看的时候就难受，所以分好段落也是文章的一个很重要的部分，排版干净嘛！</p></li><li><p>……..</p></li></ol>]]></content>
     
