@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-25T08:05:21.539Z</updated>
+  <updated>2021-07-02T13:07:40.357Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>做一个属于自己的IDEA</title>
+    <link href="http://example.com/2021/07/02/%E5%81%9A%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84IDEA/"/>
+    <id>http://example.com/2021/07/02/%E5%81%9A%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84IDEA/</id>
+    <published>2021-07-02T11:53:32.000Z</published>
+    <updated>2021-07-02T13:07:40.357Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="做一个属于自己的IDEA"><a href="#做一个属于自己的IDEA" class="headerlink" title="做一个属于自己的IDEA"></a>做一个属于自己的IDEA</h2><p>事情还要从两天前说起</p><p>那时我还在用VSCode，仍然沉迷于One Dark Pro主题的时候</p><p>发现了这么个东西</p><p>IDEA！</p><p>本着是个编译器我都喜欢下载下来玩玩的习惯我把它下载了下来</p><p>即使我电脑里还有</p><p><strong>Code::Blocks</strong></p><p> <strong>dev</strong> </p><p><strong>eclipse</strong> </p><p> <strong>VS</strong> </p><p><strong>VSCode</strong>(滑稽)</p><p>啊不对，还差一个Android Studio</p><p>​    </p><p>毫不犹豫的下载了社区版，因为专业版用不到（社区版免费）</p><p>第一次打开的时候感觉“  ？”</p><p>真的没什么感觉，就一股通用设计风格的味道</p><p>好在因为可以写Java，我便将它留了下来</p><p>​    </p><p>昨天写了一天Java，感觉可以替代<strong>eclipse</strong> 了哈哈</p><p>今天我</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>关于正规的md文件写法小知识</title>
