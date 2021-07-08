@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-06T23:52:46.909Z</updated>
+  <updated>2021-07-08T05:52:34.245Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/07/02/%E5%81%9A%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84IDEA/"/>
     <id>http://example.com/2021/07/02/%E5%81%9A%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84IDEA/</id>
     <published>2021-07-02T11:53:32.000Z</published>
-    <updated>2021-07-06T23:52:46.909Z</updated>
+    <updated>2021-07-08T05:52:34.245Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="做一个属于自己的IDEA"><a href="#做一个属于自己的IDEA" class="headerlink" title="做一个属于自己的IDEA"></a>做一个属于自己的IDEA</h2><p>事情还要从两天前说起</p><p>那时我还在用VSCode，仍然沉迷于One Dark Pro主题的时候</p><p>发现了这么个东西</p><p>IDEA！</p><p>本着是个编译器我都喜欢下载下来玩玩的习惯我把它下载了下来</p><p>即使我电脑里还有</p><p><strong>Code::Blocks</strong></p><p> <strong>dev</strong> </p><p><strong>eclipse</strong> </p><p> <strong>VS</strong> </p><p><strong>VSCode</strong>(滑稽)</p><p>啊不对，还差一个Android Studio</p><p>​    </p><p>毫不犹豫的下载了社区版，因为专业版用不到（社区版免费）</p><p>第一次打开的时候感觉“  ？”</p><p>真的没什么感觉，就一股通用设计风格的味道</p><p>好在因为可以写Java，我便将它留了下来</p><p>​    </p><p>昨天写了一天Java，感觉可以替代<strong>eclipse</strong> 了哈哈</p><p>————————————–更新线[21.07.06]——————————————-</p><p>其实就是一个插件的问题</p><p>首先在IDEA点击文件→设置→插件</p><p>打开插件界面，选择Marketplace</p><p>在搜索框搜索“Background Image Plus +”,下面可直接复制</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Background Image Plus +</span><br></pre></td></tr></table></figure><p>找到以后选择安装即可，安装后提示你重启IDEA即可使用该插件</p><p>重启后会发现视图菜单下面会出现一个Background Image Plus</p><p>下面自己搞，我就不用教你了，懂得都懂（滑稽）(●’◡’●)</p><p>这个插件在我电脑上没有那个调节透明度的选项，所以如果你也安装上后没有的话可以参考我下面碎碎念的解决方法哦(￣y▽,￣)╭ </p><p>​    </p><p>​    </p><p>​    </p><hr><p>以下是作者的一些碎碎念~</p><p>​    </p><p>其实这插件原本叫Background Image Plus ，只不过很多人装上之后可以通过视图子菜单调整透明度之类的操作，在我这愣是不给我出来，本来想着这个可能会有，结果也是一样，被迫只能另寻他路</p><p>嗨，您猜怎么着，还真让我找到了</p><p>点击文件→设置，选择外观和行为中的第一项“外观”，从上往下你会发现有一个UI选项，下面会有一个小圆角矩形，写着背景图像，点击即可获得缺失的背景透明度等同等的效果！</p>]]></content>
     
