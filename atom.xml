@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-08T05:52:34.245Z</updated>
+  <updated>2021-11-28T05:03:19.475Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我的新耳机-水月雨猫饼</title>
+    <link href="http://example.com/2021/11/28/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E6%96%B0%E8%80%B3%E6%9C%BA-%E6%B0%B4%E6%9C%88%E9%9B%A8%E7%8C%AB%E9%A5%BC/"/>
+    <id>http://example.com/2021/11/28/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E6%96%B0%E8%80%B3%E6%9C%BA-%E6%B0%B4%E6%9C%88%E9%9B%A8%E7%8C%AB%E9%A5%BC/</id>
+    <published>2021-11-28T03:13:27.000Z</published>
+    <updated>2021-11-28T05:03:19.475Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="产品测评报告" scheme="http://example.com/categories/%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%84%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="TWS无线耳机" scheme="http://example.com/tags/TWS%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>做一个属于自己的IDEA</title>
